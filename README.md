@@ -1,0 +1,2 @@
+# TikTakToeGame
+In the Tic-Tac-Toe game, you will see the approach of the game is implemented. In this game, you have two choices one for playing with computer and second for two players will be played and you have one print board on the screen where you have to enter from 1 to 9 number. The number you have chosen in that position X will be filled. Now, if you select playing with computer then next position will be randomly filled.
